@@ -1,0 +1,9 @@
+INFO : Application Started
+INFO : Connecting to Database
+ERROR : Database Connection Failed
+INFO : Retrying Connection
+WARNING : Slow Response Detected
+INFO : Application Running
+ERROR : Timeout Occured
+INFO : Running Again
+WARNING : System is crashing
